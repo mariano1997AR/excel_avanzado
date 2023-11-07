@@ -22,4 +22,59 @@ La funcion SI, en su forma mas simple, da dos opciones de respuesta: el valor_si
 
 ```
 
+## Función indice_coincidir
+
+= INDICE(BD;FILA,COLUMNA)
+
+```
+=INDICE(BD;1;2);
+
+```
+FILA = 1 <br>
+COLUMNA = 2 <br>
+
+## Función BuscarX
+= BUSCARX(VALOR B;COLUMNA MATRIZ;COLUMNA DEVUELTA)<br>
+
+
+## Automatizacion de tareas de Excel
+### Areas de estudio
+
+* Funciones <br>
+Biblioteca de funciones, funciones de la version 365, matriciales dinamicas.
+* Herramientas <br>
+Autofiltro, filtros avanzados, formato condicional, tablas, Analisis, Hipotesis, etc.
+* Power Query - Power Pivot
+Herramientas BI
+* Tablas dinamicas<br>
+Herramientas de facil aprendizaje que resuelve informes en pocos minutos
+* VBA <br>
+Lenguaje de programacion incorporado "Macros"
+* Python<br> 
+Librerias para tratamiento de datos de Excel
+
+## Flujos de python - Excel
+* Fundamentos de Python <br>
+Conocer los conceptos basicos, 
+reglas de operacion.
+* IDE<br>
+Entorno de desarrollo integrado.
+* Librerias Python Excel<br>
+Conjunto de colecciones de metodos,  funciones para el 
+analisisde datos, etc.
+* Excel<br>
+Finalmente los resultados se 
+visualizaran en las hojas
+de calculo.
+
+## Librerias de Python para excel
+* Pandas
+* Numpy
+* xlwings
+* OpenPyXL
+
+
+
+
+
 
